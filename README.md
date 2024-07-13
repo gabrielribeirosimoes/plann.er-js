@@ -1,6 +1,3 @@
-## nlw-journey-2024-rocketseat
-Trilha de HTML, CSS e JavaScript
-
 # Plann.er
 
 Plann.er é um projeto desenvolvido em HTML, CSS e JavaScript com o objetivo de ajudar os usuários a organizar suas viagens, seja a trabalho ou lazer. Com o Plann.er, é possível criar uma viagem especificando nome, data de início e fim, e planejar atividades para cada dia da viagem.
@@ -21,7 +18,7 @@ Plann.er é um projeto desenvolvido em HTML, CSS e JavaScript com o objetivo de 
 
 1. **Clone o Repositório:**
     ```bash
-    git clone https://github.com/gabrielribeirosimoes/plann.er.git
+    git clone https://github.com/gabrielribeirosimoes/plann.er-js
     ```
 
 2. **Abra o arquivo `index.html` no seu navegador:**
